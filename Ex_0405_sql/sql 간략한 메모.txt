@@ -1,0 +1,39 @@
+DB 사용
+
+오라클 데이터베이스 자체 사용
+Application Express 들어가서
+system/1111로 로그인
+
+DBeaver 다운로드
+
+
+===============SQL 로그===============
+
+===============CMD==================
+sqlplus system/1111
+
+alter user hr identified by hr;
+
+alter user hr account unlock;
+
+conn hr/hr
+
+==============DBeaver==================
+실행
+
+기존 데이터베이스 삭제, 샘플 테이블 삭제
+
+데이터베이스 생성
+database 이름 = xe로 생성
+Username = hr
+Password = hr
+
+생성후
+	Schemas -> HR -> Tables -> EMPLOYEES 더블클릭해서 Data 확인
+	
+좌측하단, Project에서 Scripts에 우클릭 후, Create new file
+파일을 만든 후, 우측 상단의 햄버거 모양 클릭
+localhost와 연동
+
+
+
