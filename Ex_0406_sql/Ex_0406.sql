@@ -6,8 +6,8 @@
 -- DML (Data Manipulation Language)
 -- SELECT(조회), INSERT(추가), UPDATE(수정), DELETE(삭제)
 -- SELECT 컬럼명1, 컬럼명2, 컬럼명3 FROM 테이블명;
--- 사원 테이블의 모든 정보 조회하기
 
+-- 사원 테이블의 모든 정보 조회하기
 SELECT * FROM EMPLOYEES;
 
 -- 부서 테이블의 모든 정보 조회하기

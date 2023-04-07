@@ -1,0 +1,19 @@
+설치 정리
+
+oracle 11g 버전 설치 -> DBeaver (5.2.5) 설치 -> cmd -> sqlplus로 db 로그인 -> hr계정의 잠금해제,
+비번설정 -> oracle과 DBeaver 연결하기
+ojdbc6.jar가 있는 경로 : C:\oraclexe\app\oracle\product\11.2.0\server\jdbc\lib
+
+Oracle 페이지에서
+XE Prior Release Archive 검색
+
+또는 선생님 myBox에서...
+http://naver.me/x4idqX7h
+
+오라클 버전 11을 사용할 것.
+
+
+
+
+
+프로그램 추가 제거 -> oracle 제거
