@@ -1,0 +1,20 @@
+아무것도 안들어 있는 계정부터 시작하기...
+
+
+oracle 데이터베이스 접속
+application express
+
+database user는 create new로
+그 다음 자유롭게 아이디 비번 입력
+create workspace
+
+아이디 만들고 나서 오른쪽 위 버튼 눌러서 접속
+
+sql workshop을 보면 데모 데이터베이스가 생성된 것을 확인할 수 있다.
+
+dbeaver 들어와서
+기존 사용하고 있던 오라클 우클릭
+
+Edit connection의 Security를 생성한 계정으로 변경
+그러면 기존의 테이블에 새로만든 계정의 정보가 들어가 있는 것을 확인 해 볼 수 있다.
+
